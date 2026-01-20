@@ -1,0 +1,2 @@
+# Heartbeat-Monitoring-System-using-MAX30100-Pulse-Oximeter-Arduino-UNO-and-Buzzer
+This project measures heart rate (BPM) and SpO₂ level using the MAX30100 pulse oximeter sensor and displays the values on the Serial Monitor. A buzzer alerts when heart rate crosses a safe limit, making it useful for basic health monitoring systems.  This system can be extended for IoT healthcare, wearable devices, and remote patient monitoring.
